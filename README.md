@@ -20,4 +20,7 @@ Il BOM che ho elencato non include tutte le parti di cui avrete bisogno ma solo 
 ## Files
 
 - la maggior parte dei file da stampare di cui avrete bisogno sono inclusi nei file CAD (.step and .f3d) tranne l afterburner, questi file sono utili anche durante l'assemblaggio della stampante 
+- foto sia del modello 3d che della mia stampante fisica con cui potrete ulteriormente aiutarvi
 - il mio printer.cfg con tutti motori stepper online e skr 1.4 turbo with tmc2209 senza schermo
+
+in caso di qualsiasi problema o difficoltà contattatemi su discord alegiuk#7901 o per segnarli errori/problemi con la repository o i file 3d e per eventuali consigli e modifiche che saranno caldamente accolte.
