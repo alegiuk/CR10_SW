@@ -16,22 +16,13 @@ Various parts can be recycled from the CR 10/10s, most important ones are:
 *cheaping out in parts can lead into several problems, such as poor printing quality or, even worse, safety hazard. Keep that in mind and use parts from the official Switchwire BOM.
 
 ## BOM with extra parts you will need
-The BOM added is based on the baseline Switchwire one, it has has the most important parts for this mod
+The BOM added is based on the baseline Switchwire one, it has has the most important parts for this mod.
 
 ## Files
 
-- Most of the printed part files needed for this conversion, are included in this git (you will only need to get the Afterburner print files from the [official Switchwire git](https://github.com/VoronDesign/Voron-Switchwire/tree/master/STL/Gantry/XZ_Axis/X_Carriage) ).
+- Most of the printed part files needed for this conversion, are included in this git 
 - CAD files (.f3d and .STEP) are provided, in order to help the building process, but they also serve as a BOM (in case you need to find proper screw lengths etc).
-- DXF files in order to cut your enclosure panels.
-- A printer.cfg as a starting point (based off LDO motors and SKR E3 mini V2 board).
-
-## Credits
-
-- Ofc to Triano for his awesome design and all the valuable help, info and support.
-- To marcel#0874 for his original idea of the sticky grill endcaps.
-- To sdukan#9213 for his valuable help into troubleshooting the Ender 3 V2 differences, electronics (and in general)
-- To all of this awesome community of people.
-- To Voron design team for all the valuable resources and the solid base.
+- my printer.cfg with all stepper from stepper online 
 
 ## Disclaimer
 
