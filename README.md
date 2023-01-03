@@ -5,18 +5,19 @@ This is a conversion of the CR 10/10s to a Voron Switchwire, this project has be
 
 # Parti generali che ho usato
 
-- The stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
-- The stock PSU.
-- The stock heatbed assemble.
-- ZYX motors (i suggest to uprade them to stepper online ones).
-- All the cables that don't go through the cable-chains (for there, silicone or PTFE cable is adviced).
-- 4010 fan for the tool cooling.
+- stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
+- stock PSU.
+- stock heatbed assemble.
+- ZYX stepper online stepper (potete usare anche quelli orignali ma vi consiglio caldamente di upradare).
+- per i cavi io gli ho sostituiti con quelli di silicone apparte quelli del piatto anche se visto che pure quelli passano per una catena per i cavi vi consiglio di netterli in silicone.
+- come scheda ho montato una skr 1.4 turbo con tmc 2209.
+- io ho acquistato la maggior parte dei pezzi da aliexpress sempre usando i link consigliato dal bom orginale di voron.
+
 
 ## BOM with extra parts you will need
 Il BOM che ho elencato non include tutte le parti di cui avrete bisogno ma solo le parti che devono essere di dimesioni diverse dovute alle ovvie differenze di dimesioni rispetto alla ender 3, per le viti ce il bisogno di consultare gli altri progetti per la conversione a ender 3 e il BOM sul sito voron per la voron switchwire
 
 ## Files
 
-- Most of the printed part files needed for this conversion, are included in this git 
-- CAD files (.f3d and .STEP) are provided, in order to help the building process.
-- my printer.cfg
+- la maggior parte dei file da stampare di cui avrete bisogno sono inclusi nei file CAD (.step and .f3d) tranne l afterburner, questi file sono utili anche durante l'assemblaggio della stampante 
+- il mio printer.cfg con tutti motori stepper online e skr 1.4 turbo with tmc2209 senza schermo
