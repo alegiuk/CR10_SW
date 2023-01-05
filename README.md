@@ -6,7 +6,7 @@ This is a conversion of the CR 10/10s to a Voron Switchwire, this project has be
 ![grill_cr_10_sw_2023-Jan-04_04-56-53PM-000_CustomizedView3888335191](https://user-images.githubusercontent.com/64409400/210624752-53a0d20b-983e-42a4-9a00-62e16e367aac.png)
 
 
-# Parti generali che ho usato
+## Parti generali che ho usato
 
 - stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
 - stock PSU.
