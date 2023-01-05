@@ -17,8 +17,8 @@ This is a conversion of the CR 10/10s to a Voron Switchwire, this project has be
 - io ho acquistato la maggior parte dei pezzi da aliexpress sempre usando i link consigliato dal bom orginale di voron.
 
 
-## BOM with extra parts you will need
-Il BOM che ho elencato non include tutte le parti di cui avrete bisogno ma solo le parti che devono essere di dimesioni diverse dovute alle ovvie differenze di dimesioni rispetto alla ender 3, per le viti ce il bisogno di consultare gli altri progetti per la conversione a ender 3 e il BOM sul sito voron per la voron switchwire
+## BOM
+ho allegato il BOM con tutte le parti di cui avrete bisogno per completare questa conversione, non preoccupatevi se a fine conversione avrete viti, inserti e t nuts avanzati, ho messo le quantita delle vite un pochino piu alte per sicurezza
 
 ## Files
 
