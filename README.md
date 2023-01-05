@@ -3,7 +3,8 @@ Questa è la conversione da una CR 10/10s ad una Voron Switchwire, questo é sta
 
 (per assemblare questa conversione potete usare la guida originale per la <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> e i video di <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJagaur3D</a> che sono stati fondamentali per me)
 
-![grill_cr_10_sw_2023-Jan-04_04-56-53PM-000_CustomizedView3888335191](https://user-images.githubusercontent.com/64409400/210847624-a9058e55-09cb-4e53-bc6e-bc6451666a2b.png)
+![1](https://user-images.githubusercontent.com/64409400/210848940-8d1707fc-b0d3-4d0b-907e-dcbf849b97ff.png)
+![IMG-0237](https://user-images.githubusercontent.com/64409400/210848981-08822c11-0784-44a0-8156-353964cdd79d.png)
 
 ## info
 le parti originali che servono della stampante:
