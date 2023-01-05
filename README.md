@@ -7,22 +7,24 @@ Questa è la conversione da una CR 10/10s ad una Voron Switchwire, questo é sta
 
 
 ## info
-
 le parti originali che servono della stampante:
 - stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
 - stock PSU.
 - stock heatbed assemble.
-- ZYX stepper (vi consiglio caldamente di upradare tutti i motori a quello di stepper online).
-- per i cavi che passano nelle catene è cosnigliabile metterli in silicone o PTFE
+- ZYX stepper (vi consiglio di upradare tutti i motori a quelli di stepper online).
+- per i cavi che passano nelle catene è consigliabile metterli in silicone o PTFE
 
 
 ## BOM
-ho allegato il BOM con tutte le parti di cui avrete bisogno per completare questa conversione, non preoccupatevi se a fine conversione avrete viti, inserti e t nuts avanzati, ho messo le quantita delle vite un pochino piu alte per sicurezza. per i link da cui prendere le parti vi consiglio di guardare il BOM orginale della <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>
+ho allegato il BOM con tutte le parti di cui avrete bisogno per completare questa conversione, non preoccupatevi se a fine conversione avrete viti, inserti e t-nuts avanzati, ho messo le quantità un pochino piu alte per sicurezza. per i link da cui prendere le parti vi consiglio di guardare il BOM orginale della <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>
 
-## Files
+## .config
+ho allegato il mio file .config che potete usare come base (i parametri messi sono quelli per i componenti che sto usando io)
 
-- la maggior parte dei file da stampare di cui avrete bisogno sono inclusi nei file CAD (.step and .f3d) tranne l afterburner, questi file sono utili anche durante l'assemblaggio della stampante 
+## CAD/STL
+- la maggior parte dei file da stampare di cui avrete bisogno sono inclusi nella cartella STL, allego anche i modelli CAD (.step and .f3d) utili durante il montaggio
+
+## Images
 - foto sia del modello 3d che della mia stampante fisica con cui potrete ulteriormente aiutarvi
-- il mio printer.cfg con tutti motori stepper online e skr 1.4 turbo with tmc2209 senza schermo
 
 in caso di qualsiasi problema o difficoltà contattatemi su discord alegiuk#7901 o per segnarli errori/problemi con la repository o i file 3d e per eventuali consigli e modifiche che saranno caldamente accolte.
