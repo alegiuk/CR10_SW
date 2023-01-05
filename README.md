@@ -1,24 +1,23 @@
 # CR 10 to Switchwire Conversion
-This is a conversion of the CR 10/10s to a Voron Switchwire, this project has been by me a 17 years old guy in last 2 years so i apologize for any error or imprecisione you may occur in reading this repository and with all the different files, thi has been possibile thanks to the amazing work of <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire">Gizzzle</a> , <a href="https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire">Walttriano</a> e altri progetti per quetsa conversione e grazie hai fantastici membri della voron communty. ho voluto fare questo progetto perchè 2 anni fa quando ho inziato questa conversione non ho trovato progetti ben fatti e completi quindi rilascio questo progetto iniziato dal me di 16 anni che ho impiegato circa 2 anni per rilasciarlo sia per impegni scolastici sia perchè volevo fare un progetto completo e finito. sono felice del risultato finale, qua cerco di spiegare al mio meglio come farlo, non posso comporarlo hai progetti sovra elencati nella completezza delle informazioni perchè ma oltre le mie capacità e disponibilità di tempo, ho cercato di farte il mio meglio per elencare tutto quello di cui avete bisogno. This is a very carefuly designed build. however mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
+Questa è la conversione da una CR 10/10s ad una Voron Switchwire, questo é stato possibile grazie al fantastico lavoro di <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire">Gizzzle</a> , <a href="https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire">Walttriano</a> ed altri progetti per questa conversione e grazie hai fantastici membri della voron communty. This is a very carefuly designed build. however mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
 
-(per assemblare questa conversione potete usare la guida originale per la <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> e i fantastici video di <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJagaur3D</a>)
+(per assemblare questa conversione potete usare la guida originale per la <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> e i video di <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJagaur3D</a> che sono stati fondamentali per me)
 
 ![grill_cr_10_sw_2023-Jan-04_04-56-53PM-000_CustomizedView3888335191](https://user-images.githubusercontent.com/64409400/210624752-53a0d20b-983e-42a4-9a00-62e16e367aac.png)
 
 
-## Parti generali che ho usato
+## info
 
+le parti originali che servono della stampante:
 - stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
 - stock PSU.
 - stock heatbed assemble.
-- ZYX stepper online stepper (potete usare anche quelli orignali ma vi consiglio caldamente di upradare).
-- per i cavi io gli ho sostituiti con quelli di silicone apparte quelli del piatto anche se visto che pure quelli passano per una catena per i cavi vi consiglio di netterli in silicone.
-- come scheda ho montato una skr 1.4 turbo con tmc 2209.
-- io ho acquistato la maggior parte dei pezzi da aliexpress sempre usando i link consigliato dal bom orginale di voron.
+- ZYX stepper (vi consiglio caldamente di upradare tutti i motori a quello di stepper online).
+- per i cavi che passano nelle catene è cosnigliabile metterli in silicone o PTFE
 
 
 ## BOM
-ho allegato il BOM con tutte le parti di cui avrete bisogno per completare questa conversione, non preoccupatevi se a fine conversione avrete viti, inserti e t nuts avanzati, ho messo le quantita delle vite un pochino piu alte per sicurezza
+ho allegato il BOM con tutte le parti di cui avrete bisogno per completare questa conversione, non preoccupatevi se a fine conversione avrete viti, inserti e t nuts avanzati, ho messo le quantita delle vite un pochino piu alte per sicurezza. per i link da cui prendere le parti vi consiglio di guardare il BOM orginale della <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>
 
 ## Files
 
