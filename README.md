@@ -27,4 +27,4 @@ ho allegato il mio file .config che potete usare come base (i parametri messi so
 ## Images
 - foto sia del modello 3d che della mia stampante fisica con cui potrete ulteriormente aiutarvi
 
-in caso di qualsiasi problema o difficoltà contattatemi su discord alegiuk#7901 o per segnarli errori/problemi con la repository o i file 3d e per eventuali consigli e modifiche che saranno caldamente accolte.
+in caso di qualsiasi problema o difficoltà contattatemi su discord alegiuk#7901 o per segnarli errori/problemi con la repository o i file 3d. non mi ritengo per nessun motivo un esperto ma solo un 17 enne con un hobby, eventuali consigli o modifiche saranno caldamente accolte.
