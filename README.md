@@ -1,32 +1,34 @@
 # CR 10 to Switchwire Conversion
-Questa è la conversione da una CR 10/10s ad una Voron Switchwire, questo é stato possibile grazie al fantastico lavoro di <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire">Gizzzle</a> , <a href="https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire">Walttriano</a> ed altri progetti per questa conversione e grazie hai fantastici membri della voron communty. This is a very carefuly designed build. however mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
+This is the conversion from a CR 10/10s to a Voron Switchwire, this was possible thanks to the amazing work of <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire">Gizzzle</a> , <a href="https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire">Walttriano</a> And other projects for this conversion and thanks to the fantastic members of the voron community. This is a very carefuly designed build. however mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
 
-(per assemblare questa conversione potete usare la guida originale per la <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> e i video di <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJagaur3D</a> che sono stati fondamentali per me)
+(To complete this conversion you can use the original guide for the <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> and the videos of <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJagaur3D</a> That were essential to me)
 
 ![1](https://user-images.githubusercontent.com/64409400/210848940-8d1707fc-b0d3-4d0b-907e-dcbf849b97ff.png)
 ![IMG-0237](https://user-images.githubusercontent.com/64409400/210848981-08822c11-0784-44a0-8156-353964cdd79d.png)
 ![Immagine 2023-01-05 190728](https://user-images.githubusercontent.com/64409400/210850079-002a1790-2d2d-4913-8416-ca9d644b1d50.png)
 
 ## info
-le parti originali che servono della stampante:
+The original parts of the printer that you will need:
 - stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
 - stock PSU.
 - stock heatbed assemble.
-- ZYX stepper (vi consiglio di upradare tutti i motori a quelli di stepper online).
-- per i cavi che passano nelle catene è consigliabile metterli in silicone o PTFE
+- ZYX stepper (I recommend upgrading all the motor to stepper online ones).
+- For cables that pass through the drag chains it is recommended to put silicone or PTFE ones
 
 
 ## BOM
-ho allegato il BOM con tutte le parti di cui avrete bisogno per completare questa conversione, non preoccupatevi se a fine conversione avrete viti, inserti e t-nuts avanzati, ho messo le quantità un pochino piu alte per sicurezza. per i link da cui prendere le parti vi consiglio di guardare il BOM orginale della <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>
+The BOM has all the parts you will need to complete this conversion, do not worry if at the end you will have spare screws, inserts and t-nuts, I put the quantities a little higher for safety. for the links from which to take the parts I recommend you look at the original BOM of the <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>
 
 ## .config
-ho allegato il mio file .config che potete usare come base (i parametri messi sono quelli per i componenti che sto usando io)
+It's the .config file that i use on my printer that you can use as a base (the parameters set are those for the parts I am using)
 
 ## CAD/STL
-- la maggior parte dei file da stampare di cui avrete bisogno sono inclusi nella cartella STL, allego anche i modelli CAD (.step and .f3d) utili durante il montaggio
+Most of the files that you will need to print are included in the STL folder, I also attach the CAD (.step and .f3d) models useful during assembly
 
 ## Images
-- foto sia del modello 3d che della mia stampante fisica con cui potrete ulteriormente aiutarvi
+Images of both the 3d model and my physical printer
 
 
-in caso di qualsiasi problema o difficoltà contattatemi su discord alegiuk#7901 o per segnarli errori/problemi con la repository o i file 3d. non mi ritengo per nessun motivo un esperto ma solo un 17 enne con un hobby, eventuali consigli o modifiche saranno caldamente accolte.
+In case of any problem or difficulty contact me on discord alegiuk#7901 or to mark errors / problems with the repository or 3d files. I do not consider myself for any reason an expert but only a 17 year old with this hobby, any advice or changes will be warmly appreciated.
+
+33
