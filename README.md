@@ -12,7 +12,7 @@ The original parts of the printer that you will need:
 - Stock frame (though a 380mm extrusion is needed for the X. You can chop the original one to length).
 - Stock PSU.
 - Stock heatbed assemble.
-- ZYX stepper (i recommend upgrading all the motor to stepper online ones).
+- ZYX stepper (i recommend upgrading all the motors to stepper online ones).
 - For cables that pass through the drag chains it is recommended to put silicone or PTFE ones
 
 
