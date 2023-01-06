@@ -23,10 +23,11 @@ The BOM has all the parts you will need to complete this conversion, do not worr
 It's the .config file that i use on my printer that you can use as a base (the parameters set are those for the parts I am using)
 
 ## CAD/STL
-Most of the files that you will need to print are included in the STL folder, I also attach the CAD (.step and .f3d) models useful during assembly
+The files that you will need to print are included in the STL folder, I also attach the CAD (.step and .f3d) models useful during assembly
 
 ## Images
 Images of both the 3d model and my physical printer
+
 
 
 In case of any problem or difficulty contact me on discord alegiuk#7901 or to mark errors / problems with the repository or 3d files. I do not consider myself for any reason an expert but only a 17 year old with this hobby, any advice or changes will be warmly appreciated.
