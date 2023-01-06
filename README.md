@@ -1,7 +1,7 @@
 # CR 10 to Switchwire Conversion
 This is the conversion from a CR 10/10s to a Voron Switchwire, this was possible thanks to the amazing work of <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire">Gizzzle</a> , <a href="https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire">Walttriano</a> And other projects for this conversion and thanks to the fantastic members of the voron community. This is a very carefuly designed build. However mistakes could have been made so by deciding to follow this conversion, you are responsible for any possible damage done to the printer or even yourself. This is serious so keep that in mind.
 
-(To complete this conversion you can use the original guide for the <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> and the videos of <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJagaur3D</a> That were essential to me)
+(To complete this conversion you can use the original guide for the <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a> and the videos of <a href="https://youtube.com/playlist?list=PLRsIVaP-BizCdEONPhoDoOAeQk3QzMPTN">GoldenJaguar3D</a> That were essential to me)
 
 ![1](https://user-images.githubusercontent.com/64409400/210848940-8d1707fc-b0d3-4d0b-907e-dcbf849b97ff.png)
 ![IMG-0237](https://user-images.githubusercontent.com/64409400/210848981-08822c11-0784-44a0-8156-353964cdd79d.png)
