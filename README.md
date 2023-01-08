@@ -17,7 +17,7 @@ The original parts of the printer that you will need:
 
 
 ## BOM
-The BOM has all the parts you will need to complete this conversion, do not worry if at the end you will have spare screws, inserts and t-nuts, I put the quantities a little higher for safety. for the links from which to take the parts I recommend you look at the original BOM of the <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>.
+The BOM has all the parts you will need to complete this conversion, do not worry if at the end you will have spare screws, inserts and t-nuts, I put the quantities a little higher for safety. For the links from which to take the parts I recommend you look at the original BOM of the <a href="https://vorondesign.com/voron_switchwire">Voron Switchwire</a>.
 
 ## Config
 It's the .config file that i use on my printer that you can use as a base (the parameters set are those for the parts I am using).
