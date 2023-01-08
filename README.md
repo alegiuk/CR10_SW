@@ -25,6 +25,9 @@ It's the .config file that i use on my printer that you can use as a base (the p
 ## CAD/STL
 The files that you will need to print are included in the STL folder, I also attach the CAD (.step) model useful during assembly
 
+## Custom milled y axis plate
+this plate replaces the stock one and has the holes for screwing the mgn12 blocks and the files to attach the y drag chain
+
 ## Images
 Images of both the 3d model and my physical printer
 
