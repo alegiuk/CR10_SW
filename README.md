@@ -5,7 +5,7 @@ This is the conversion from a CR 10/10s to a Voron Switchwire, this was possible
 
 ![1](https://user-images.githubusercontent.com/64409400/210848940-8d1707fc-b0d3-4d0b-907e-dcbf849b97ff.png)
 ![IMG-0237](https://user-images.githubusercontent.com/64409400/210848981-08822c11-0784-44a0-8156-353964cdd79d.png)
-![Immagine 2023-01-05 190728](https://user-images.githubusercontent.com/64409400/210850079-002a1790-2d2d-4913-8416-ca9d644b1d50.png)
+![esfesf](https://user-images.githubusercontent.com/64409400/211215180-ffc4b5de-6fe1-4f21-827f-3f08bcaff62b.png)
 
 ## Info
 The original parts of the printer that you will need:
